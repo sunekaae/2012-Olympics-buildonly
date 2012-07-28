@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "rake"
+gem "xcodebuild-rb", "~> 0.3.0"
+
+gem "frank-cucumber", "~> 0.9.4"
